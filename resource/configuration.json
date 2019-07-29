@@ -28,7 +28,8 @@
         "collapsable": false,
         "children": [
           "js/f11_fullscreen",
-          "js/window_location"
+          "js/window_location",
+          "js/design_mode"
         ]
       },
       {
@@ -36,6 +37,13 @@
         "collapsable": false,
         "children": [
           "node/unexpected_token_import"
+        ]
+      },
+      {
+        "title": "Git",
+        "collapsable": false,
+        "children": [
+          "git/git_error"
         ]
       }
     ]
