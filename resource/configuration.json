@@ -20,7 +20,8 @@
         "collapsable": false,
         "children": [
           "css/ellipsis",
-          "css/vertical"
+          "css/vertical",
+          "css/background-clip"
         ]
       },
       {
@@ -29,7 +30,8 @@
         "children": [
           "js/f11_fullscreen",
           "js/window_location",
-          "js/design_mode"
+          "js/design_mode",
+          "js/math_fn"
         ]
       },
       {
