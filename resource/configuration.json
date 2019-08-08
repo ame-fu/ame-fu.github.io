@@ -1,10 +1,6 @@
 {
   "nav": [
     {
-      "text": "文章",
-      "link": "/article/"
-    },
-    {
       "text": "笔记",
       "link": "/note/"
     },
