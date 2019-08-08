@@ -31,7 +31,8 @@
           "js/f11_fullscreen",
           "js/window_location",
           "js/design_mode",
-          "js/math_fn"
+          "js/math_fn",
+          "js/ES6_GeneratorFunction_yeild_promise"
         ]
       },
       {
